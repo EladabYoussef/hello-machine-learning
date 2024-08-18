@@ -4,7 +4,7 @@
 - **implementing gradient descent.**
 - **using numpy library and manipulating vectors and matrices.**
 - **normalizing the data and dealing with it.**
-- **plotting the data with matplotli.pyplot**
+- **plotting the data with matplotlib.pyplot**
 # Housing Price Prediction Using Linear Regression
 
 This project implements a linear regression model from scratch to predict housing prices based on several features such as size, number of bedrooms, number of floors, and age of the home.
